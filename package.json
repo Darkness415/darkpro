@@ -1,0 +1,17 @@
+{
+  "name": "auxilio-tools",
+  "version": "1.0.0",
+  "description": "Tools for Auxilio Caixa",
+  "main": "index.js",
+  "author": "negaodanado",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cpf-cnpj-validator": "^1.0.3",
+    "enquirer": "^2.3.6",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.2",
+    "uuid": "^8.3.2"
+  }
+}
